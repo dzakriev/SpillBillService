@@ -1,0 +1,5 @@
+yandex_token       = "your-yandex-oauth-token"
+cloud_id          = "your-cloud-id"
+folder_id         = "your-folder-id"
+zone              = "ru-central1-a"
+ssh_public_key_path = "~/.ssh/id_rsa.pub"
